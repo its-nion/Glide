@@ -5,4 +5,5 @@ Relaxing WebGL endless runner
 >Press to watch in better quality and with sound
 
 ## - [Open Glide](https://necsii.github.io/Glide/) -
+## - [Game Document | Making of](Documents/MakingOfGlide.pdf) -
 
