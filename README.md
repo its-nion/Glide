@@ -1,6 +1,8 @@
 # Glide
 Relaxing WebGL endless runner
 
+[![Watch the video](http://img.youtube.com/vi/X3a74Nl0ScI/0.jpg)](https://youtu.be/vt5fpE0bzSY)
+
 <a href="https://youtu.be/X3a74Nl0ScI
 " target="_blank"><img src="http://img.youtube.com/vi/X3a74Nl0ScI/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
