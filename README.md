@@ -5,5 +5,6 @@ Relaxing WebGL endless runner
 >Press to watch in better quality and with sound
 
 ## - [Open Glide](https://necsii.github.io/Glide/) -
+>Try to get as far as you can, by flying through portals and not crashing :)
 ## - [Game Document | Making of](Documents/MakingOfGlide.pdf) -
 
