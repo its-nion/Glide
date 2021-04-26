@@ -1,7 +1,7 @@
 # Glide
->Relaxing WebGL endless runner
+Relaxing WebGL endless runner
 
-Made with: Unity, Adobe Illustrator, Blender, Adobe Photoshop
+>Made with: Unity, Adobe Illustrator, Blender, Adobe Photoshop
 
 [![Watch the video](Media/Glide_Trailer.gif)](https://www.youtube.com/watch?v=X3a74Nl0ScI)
 >Press to watch in better quality and with sound
